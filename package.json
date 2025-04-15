@@ -1,0 +1,22 @@
+{
+  "name": "angstshout",
+  "version": "1.0.0",
+  "description": "",
+  "main": "App.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/UlyssesRLopez/AngstShout.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/UlyssesRLopez/AngstShout/issues"
+  },
+  "homepage": "https://github.com/UlyssesRLopez/AngstShout#readme",
+  "dependencies": {
+    "express": "^5.1.0"
+  }
+}
